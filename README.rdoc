@@ -1,3 +1,6 @@
 == README
 
 just a Haml testing version of paperclip/imagemagick  for instagram challenge rails.
+(not done)
+
+
